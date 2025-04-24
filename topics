@@ -2,3 +2,9 @@ Topics
 1. Getting Started with Oracle APEX on the Oracle Autonomous Database
 2. Using SQL Workshop
 3. Creating a Database Application
+4. Working with Pages and Regions
+    4.1 Creating Application Pages and Exploring Page Components
+    4.2 Managing Pages and Adding Page Components
+    4.3 Dynamic Content Region and Global Page
+    4.4 Runtime Developer Toolbar Debug (APEX_DEBUG)
+    4.5 Locking and Unlocking a Page and Copy a Page from Wizard
