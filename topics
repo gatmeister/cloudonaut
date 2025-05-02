@@ -37,4 +37,10 @@ Topics
     9.5 Demo: Creating and Understanding Page Processes
     9.6 Creating and Understanding Validations
     9.7 Creating and Understanding Validations and Branches
-
+10. Creating and Using Dynamic Actions
+    10.1 Understanding Dynamic Actions
+    10.2 Enabling and disabling Items using Dynamic Actions
+    10.3 Setting an Item Value using Dynamic Actions
+    10.4 Filtering and Refreshing a Report using Dynamic Actions
+    10.5 Debouncing and Throttling
+    
