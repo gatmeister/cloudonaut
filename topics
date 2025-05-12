@@ -69,4 +69,14 @@ Topics
     15.2 Create, Edit and Manage Automations
     15.3 Sending Emails Part 1
     15.4 Sending Emails Part 2
+16. Managing Application Data
+    16.1 Understanding Data Load Definition
+    16.2 Demo: Understanding Data Load Definition
+    16.3 Creating Apps with Data Loading Capabilities
+    16.4 Understanding Collections
+    16.5 Managing REST Enabled SQL References
+    16.6 Creating and Specifying REST Enabled SQL References
+    16.7 Create and Manage Web Credentials
+    16.8 Creating and Managing REST Data Sources - Part 1
+    16.9 Creating and Managing REST Data Sources - Part 2
     
