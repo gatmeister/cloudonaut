@@ -99,3 +99,9 @@ Topics
     19.6 Migrating Database Objects Between Environments
     19.7 Migrating Data
     19.8 One-click Remote Application Deployment
+20. Building Mobile-Friendly Apps
+    20.1 Progressive Web App (PWA)
+    20.2 Enhancements: Screenshots, Sharing, Dynamic Actions, Device GeoLocation
+    20.3 Demo: Enhancements: Screenshots, Sharing, Dynamic Actions, Device GeoLocation
+    20.4 Persistent Authentication and Sending Push Notifications
+    20.5 Demo: Persistent Authentication and Sending Push Notifications
