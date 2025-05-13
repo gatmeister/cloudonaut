@@ -90,3 +90,12 @@ Topics
     18.4 Creating, Custimizing, and Using Calendars
     18.5 Creating, Custimizing, and Using Trees
     18.6 Creating, Custimizing, and Using Maps
+19. Migrating Application Development Between Environments
+    19.1 Working copies
+    19.2 Demo: Working Copies
+    19.3 Exporting Applications Between Environments
+    19.4 Demo: Exporting Applications Between Environments
+    19.5 Importing Application to the Target Enviroment
+    19.6 Migrating Database Objects Between Environments
+    19.7 Migrating Data
+    19.8 One-click Remote Application Deployment
